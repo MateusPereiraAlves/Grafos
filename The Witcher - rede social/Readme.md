@@ -1,0 +1,1 @@
+Aqui está uma análise completa da rede social do universo de The Witcher, nesta pasta entrasse os códigos que foram utilizados para analisar a rede e os csv utilizados, também um relatório completo com a análises e considerações
